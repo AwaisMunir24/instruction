@@ -1,0 +1,13 @@
+.App{
+    background-color: #fffbfc;
+    background-image: url('./assets/images/Mask-group.png');
+    background-position: bottom;
+    height: 100vh;
+    background-repeat: no-repeat;
+}
+
+@media screen  and (max-width : 992px){
+    .App{
+        height: auto;
+    }
+}
